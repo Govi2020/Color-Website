@@ -1,0 +1,23 @@
+{
+  "name": "colorweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Govi2020/A-Color-Website.git"
+  },
+  "author": "Govi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Govi2020/A-Color-Website/issues"
+  },
+  "homepage": "https://github.com/Govi2020/A-Color-Website#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "smooth-scrollbar": "^8.6.3"
+  }
+}

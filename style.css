@@ -6,6 +6,10 @@
   scroll-behavior: smooth;
 }
 
+body{
+  overflow:auto;
+}
+
 nav {
   background: hsl(0, 0%, 7%);
   height: 80px;
@@ -508,7 +512,7 @@ nav {
 }
 .services-card:hover {
   transition: 0.3s ease;
-  transform: scale(1.075);
+  transform: scale(1.075) !important;
 }
 @media screen and (max-width: 1300px) {
   .services-wrapper {
